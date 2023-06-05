@@ -1,6 +1,6 @@
 # UAS-Kelas-py
 
-<h2 align="center">Kelompok UTS Python</h2>
+<h2 align="center">Kelompok UAS Python</h2>
 <code align="center">
 M. Alif Aldiansyah      (20.01.013.066)
 Fajri Alfarizi          (20.01.013.063)
